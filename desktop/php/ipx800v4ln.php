@@ -169,5 +169,5 @@ foreach (jeeObject::all() as $object) {
 </div>
 </div>
 
-<?php include_file('desktop', ipx800v4ln, 'js', ipx800v4ln);?>
+<?php include_file('desktop', ipx800v4ln, 'js', 'ipx800v4ln');?>
 <?php include_file('core', 'plugin.template', 'js');?>
